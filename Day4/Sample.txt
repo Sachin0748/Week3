@@ -1,0 +1,20 @@
+hello, this is the first line.
+Java is a powerful programming language.
+hello world!
+HashSet does not maintain insertion order.
+hello again, welcome to Java.
+Sorting algorithms include QuickSort and MergeSort.
+A HashMap stores key-value pairs.
+hello from the other side!
+The main method is the entry point in Java.
+Inheritance allows code reusability.
+Polymorphism enables method overriding.
+Encapsulation hides implementation details.
+Abstraction focuses on essential details.
+Recursion is a function calling itself.
+Stack follows Last-In-First-Out (LIFO).
+Queue follows First-In-First-Out (FIFO).
+Threads enable concurrent execution.
+hello, let's read a file using BufferedReader.
+Writing to a file requires FileWriter.
+hello, this is the last line.
