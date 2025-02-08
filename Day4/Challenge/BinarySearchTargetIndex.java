@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class BinarySearchTargetIndex {
+public final class BinarySearchTargetIndex {
     public static int binarySearch(int [] arr, int target){
         Arrays.sort(arr);
         int left =0;
@@ -19,6 +19,7 @@ public class BinarySearchTargetIndex {
         }
         return -1;
     }
+
     public static void main(String[] args) {
         int [] arr= {0,90,8,3,24,8};
         int target = 8;
